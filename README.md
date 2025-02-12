@@ -1,1 +1,1 @@
-# hibernatecrudoperation
+The **Hibernate CRUD** application follows the **Model-View-Controller (MVC)** architecture for managing database operations. It enables **Create, Read, Update, and Delete (CRUD)** operations using **Hibernate ORM** for seamless database interaction. The **Model** represents entities, the **View** displays data, and the **Controller** handles user requests efficiently.
